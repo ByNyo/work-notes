@@ -1,0 +1,1 @@
+curl -v https://api.brightsky.dev/weather\?lat\=52\&lon\=7.6\&date\=2020-04-21 | jq '.weather[].temperature' | sort -n -r
