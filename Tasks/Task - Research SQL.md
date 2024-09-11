@@ -78,14 +78,22 @@ UPDATE Customers
 SET ContactName='Juan'
 WHERE County='Mexico'
 ```
-==!!!WARNING!!! Without the ==**`WHERE`**==clause, ALL records will be updated!!!==
+==!!!WARNING!!! Without the ==**`WHERE`**==clause, ALL records will be updated!==
 **Update all records**
 ```mysql
 UPDATE Customers
 SET ContactName='Juan';
 ```
 #### DELETE
-
+==!!!WARNING!!! You should be careful when deleting records in a table! Without the ==**`WHERE`**==clause, all your recors in the table will be deleted!==
+**Delete Syntax**
+```mysql
+DELETE FROM table_name WHERE condition;
+```
+**Example Syntax**
+```mysql
+DELETE FROM Customers WHERE CustomerName='Alfreds Futterkiste';
+```
 #### SELECT
 
 #### JOIN
