@@ -86,7 +86,8 @@ UPDATE Customers
 SET ContactName='Juan';
 ```
 #### DELETE
-**!!WARNING!!! You should be careful when deleting records in a table! Without the `WHERE` clause, all your recors in the table will be deleted!**
+**!!!WARNING!!! You should be careful when deleting records in a table! Without the `WHERE` clause, all your recors in the table will be deleted!**
+
 **DELETE Syntax**
 ```mysql
 DELETE FROM table_name WHERE condition;
@@ -150,11 +151,16 @@ or
 SELECT Count(*) AS DistinctCountires FROM (SELECT DISTINCT Country FROM Customers);
 ```
 #### JOINs
-The **`JOIN`** clause is used to combine rows from two or more tables, based on a related column between them. 
+The **`JOIN`** clause is used to combine rows from two or more tables, based on a related column between them.
+
 There are different types of SQL JOINs
+
 **(INNER) JOIN:** Returns records that have matching values in both tables.
-**LEFT (OUTER) JOIN:** Returns all records from the left table and the matched records from the right table. 
+
+**LEFT (OUTER) JOIN:** Returns all records from the left table and the matched records from the right table.
+
 **RIGHT (OUTER) JOIN:** Returns all records from the right table and the matched records from the left table.
+
 **FULL (OUTER) JOIN:** Returns all records when there is a match in either left or right table.
 
 **INNER JOIN Syntax**
