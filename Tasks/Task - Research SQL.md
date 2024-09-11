@@ -219,6 +219,7 @@ SELECT MAX(Price) FROM Products;
 ```
 #### COUNT
 **`COUNT`** returns the number of rows that match the condition if there is one.
+
 **COUNT Syntax**
 ```mysql
 SELECT COUNT(column) FROM table_name;
@@ -252,6 +253,7 @@ SELECT COUNT(DISTINCT column) FROM table_name;
 SELECT COUNT(DISTINCT Price) FROM Products;
 ```
 **COUNT with Alias Syntax**
+
 Alias is used to give the counted column a name
 ```mysql
 SELECT COUNT(column) AS [column_name]
@@ -264,6 +266,7 @@ FROM Products;
 ```
 #### GROUP BY
 **`GROUP BY`** is used to group rows that have the same values into summary rows, like "find the number of customers in each country". It is often used with aggregate Functions (COUNT(), MAX(), MIN(), ...) to group the result-set by one or more columns.
+
 **GROUP BY Syntax**
 ```mysql
 SELECT column_name
@@ -287,6 +290,7 @@ ORDER BY COUNT(CustomerID) DESC;
 ```
 #### ORDER BY (ASC | DESC)
 You can use **`ORDER BY`** to sort the column/s in ascending or descending order.
+
 **ORDER BY Syntax**
 ```mysql
 SELECT column1, column2, ...
