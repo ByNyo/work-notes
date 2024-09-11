@@ -45,7 +45,9 @@ CREATE TABLE IF NOT EXISTS Customers(
 	PRIMARY KEY (ID)
 );
 ```
-If you already have an existing Table and want to clone it. Don't worry there is a way. **CREATE & Clone Syntax**
+If you already have an existing Table and want to clone it. Don't worry there is a way. 
+
+**CREATE & Clone Syntax**
 ```mysql
 CREATE TABLE NEW_TABLE_NAME AS
 SELECT [column1]
@@ -77,14 +79,14 @@ UPDATE Customers
 SET ContactName='Juan'
 WHERE County='Mexico'
 ```
-==!!!WARNING!!! Without the ==**`WHERE`**==clause, ALL records will be updated!==
+**!!!WARNING!!! Without the **`WHERE`** clause, ALL records will be updated!**
 **UPDATE all records**
 ```mysql
 UPDATE Customers
 SET ContactName='Juan';
 ```
 #### DELETE
-==!!!WARNING!!! You should be careful when deleting records in a table! Without the ==**`WHERE`**==clause, all your recors in the table will be deleted!==
+**==!!!WARNING!!! You should be careful when deleting records in a table! Without the `WHERE` clause, all your recors in the table will be deleted!**
 **DELETE Syntax**
 ```mysql
 DELETE FROM table_name WHERE condition;
