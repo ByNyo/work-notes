@@ -1,6 +1,6 @@
 ## Tables
 #### CREATE
-**Create Syntax**
+**CREATE Syntax**
 ```mysql
 CREATE TABLE table_name(
 	column1 datatype,
@@ -11,7 +11,7 @@ CREATE TABLE table_name(
 	PRIMARY KEY ( one or more columns )
 );
 ```
-**Create Example**
+**CREATE Example**
 ```mysql
 CREATE TABLE Customers(
 	ID INT NOT NULL,
@@ -23,7 +23,7 @@ CREATE TABLE Customers(
 );
 ```
 With the last example you can run into problems. For example because the table already exists. But don't worry there is a way to make sure you don't run into these problems.
-**Create if not exists Syntax**
+**CREATE if not exists Syntax**
 ```mysql
 CREATE TABLE IF NOT EXISTS table_name(
 	column1 datatype,
@@ -34,7 +34,7 @@ CREATE TABLE IF NOT EXISTS table_name(
 	PRIMARY KEY ( one or more columns )
 )
 ```
-**Create if not exists Example**
+**CREATE if not exists Example**
 ```mysql
 CREATE TABLE IF NOT EXISTS Customers(
 	ID INT NOT NULL,
@@ -46,69 +46,274 @@ CREATE TABLE IF NOT EXISTS Customers(
 );
 ```
 If you already have an existing Table and want to clone it. Don't worry there is a way.
-**Create & Clone Syntax**
+**CREATE & Clone Syntax**
 ```mysql
 CREATE TABLE NEW_TABLE_NAME AS
 SELECT [column1]
 FROM EXISTING_TABLE_NAME
 WHERE CONDITION;
 ```
-**Create & Clone Example**
+**CREATE & Clone Example**
 ```mysql
 CREATE TABLE SALRAY AS
 SELECT ID, SALARY
 FROM Customers;
 ```
 #### UPDATE
-**Update Syntax**
+**UPDATE Syntax**
 ```mysql
 UPDATE table_name
 SET cloumn1=value1, column2=value2, ...
 WHERE condition;
 ```
-**Update Example**
+**UPDATE Example**
 ```mysql
 UPDATE Customers
 SET ContactName='Alfred Schmidt', City='Frankfurt'
 WHERE CustomerID=1;
 ```
-**Update multiple Example**
+**UPDATE multiple Example**
 ```mysql
 UPDATE Customers
 SET ContactName='Juan'
 WHERE County='Mexico'
 ```
 ==!!!WARNING!!! Without the ==**`WHERE`**==clause, ALL records will be updated!==
-**Update all records**
+**UPDATE all records**
 ```mysql
 UPDATE Customers
 SET ContactName='Juan';
 ```
 #### DELETE
 ==!!!WARNING!!! You should be careful when deleting records in a table! Without the ==**`WHERE`**==clause, all your recors in the table will be deleted!==
-**Delete Syntax**
+**DELETE Syntax**
 ```mysql
 DELETE FROM table_name WHERE condition;
 ```
-**Example Syntax**
+**DELETE Example Syntax**
 ```mysql
 DELETE FROM Customers WHERE CustomerName='Alfreds Futterkiste';
 ```
+**DELETE all Syntax**
+```mysql
+DELETE FROM table_name;
+```
+**DELETE all Example**
+```mysql
+DELETE FROM Customers;
+```
+**DELETE Table Syntax**
+```mysql
+DROP TABLE table_name;
+```
+**DELETE Table Example**
+```mysql
+DROP TABLE Customers;
+```
 #### SELECT
+**SELECT Syntax**
+```mysql
+SELECT column1, column2, ... FROM table_name;
+```
+**SELECT Example**
+```mysql
+SELECT CustomerName, City From Customers;
 
-#### JOIN
+```
+**SELECT All Syntax**
+```mysql
+SELECT * FROM table_name;
+```
+**SELECT All Example**
+```mysql
+SELECT * FROM Customers;
+```
 
-## Modifiers
+##### SELECT DISTINCT
+**`SELECT DISTINCT`** is only used to return distinct (different) values. For example you can ignore duplicates.
+
+**SELECT DISTINCT Syntax**
+```mysql
+SELECT DISTINCT column1, column2, ... FROM Customers
+```
+**SELECT DISTINCT Example**
+```mysql
+SELECT DISTINCT Country FROM Customers;
+```
+**SELECT DISTINCT COUNT Examples**
+```mysql
+SELECT Count(DISTINCT Country) FROM Customers;
+```
+or
+```mysql
+SELECT Count(*) AS DistinctCountires FROM (SELECT DISTINCT Country FROM Customers);
+```
+#### JOINs
+The **`JOIN`** clause is used to combine rows from two or more tables, based on a related column between them. 
+There are different types of SQL JOINs
+**(INNER) JOIN:** Returns records that have matching values in both tables.
+**LEFT (OUTER) JOIN:** Returns all records from the left table and the matched records from the right table. 
+**RIGHT (OUTER) JOIN:** Returns all records from the right table and the matched records from the left table.
+**FULL (OUTER) JOIN:** Returns all records when there is a match in either left or right table.
+
+**INNER JOIN Syntax**
+```mysql
+SELECT column1, column2, ...
+FROM table_name1
+INNER JOIN table_name2 ON table_name1.column = table_name2.column;
+```
+**INNER JOIN Example**
+```mysql
+SELECT ProductID, ProductName, CategoryName
+FROM Products
+INNER JOIN Categories ON Products.CategoryID = Categories.CategoryID;
+```
+**LEFT JOIN Syntax**
+The left table is the one that is selected, which here would be called table_name1.
+```mysql
+SELECT column1, column2, ...
+FROM table_name1
+LEFT JOIN table_name2 ON table_name1.column = table_name2.column;
+```
+LEFT JOIN Examples
+```mysql
+SELECT Customers.CustomerName, Orders.OrderID
+FROM Customers
+LEFT JOIN table_name2 ON Customers.column = Orders.CustomerID;
+```
+You can also use ORDER BY or GROUP BY
+```mysql
+SELECT Customers.CustomerName, Orders.OrderID
+FROM Customers
+LEFT JOIN table_name2 ON Customers.column = Orders.CustomerID
+ORDER BY Customers.CustomerName;
+```
+## Extra
+#### MIN
+**`MIN`** is used to get smallest value of the selected column.
+**MIN Syntax**
+```mysql
+SELECT MIN(column) FROM table_name;
+```
+**MIN Example**
+```mysql
+SELECT MIN(Price) FROM Products;
+```
 #### MAX
-
+**`MAX`** is used to get largest value of the selected column.
+**MAX Syntax**
+```mysql
+SELECT MAX(column) FROM table_name;
+```
+**MAX Example**
+```mysql
+SELECT MAX(Price) FROM Products;
+```
 #### COUNT
-
+**`COUNT`** returns the number of rows that match the condition if there is one.
+**COUNT Syntax**
+```mysql
+SELECT COUNT(column) FROM table_name;
+```
+**COUNT Example**
+```mysql
+SELECT COUNT(ProductName) FROM Products;
+```
+**COUNT All Syntax**
+```mysql
+SELECT COUNT(*) FROM table_name;
+```
+**COUNT All Example**
+```mysql
+SELECT COUNT(*) FROM Products;
+```
+**COUNT with Condition Syntax**
+```mysql
+SELECT COUNT(column) FROM table_name WHERE condition;
+```
+**COUNT with Condition Example**
+```mysql
+SELECT COUNT(ProductName) FROM Products WHERE Price > 20;
+```
+**COUNT ignore duplicates Syntax**
+```mysql
+SELECT COUNT(DISTINCT column) FROM table_name;
+```
+**COUNT ignore duplicates Example**
+```mysql
+SELECT COUNT(DISTINCT Price) FROM Products;
+```
+**COUNT with Alias Syntax**
+Alias is used to give the counted column a name
+```mysql
+SELECT COUNT(column) AS [column_name]
+FROM table_name;
+```
+**COUNT with Alias Example**
+```mysql
+SELECT COUNT(*) AS [Number of records]
+FROM Products;
+```
 #### GROUP BY
+**`GROUP BY`** is used to group rows that have the same values into summary rows, like "find the number of customers in each country". It is often used with aggregate Functions (COUNT(), MAX(), MIN(), ...) to group the result-set by one or more columns.
+**GROUP BY Syntax**
+```mysql
+SELECT column_name
+FROM table_name
+WHERE condition # Optional
+GROUP BY column_name # Optional
+ORDER BY column_name; # Optional
+```
+**GROUP BY Examples**
+```mysql
+SELECT COUNT(CustomerID), Country
+FROM Customers
+GROUP BY Country;
+```
 
+```mysql
+SELECT COUNT(CustomerID), Country
+FROM Customers
+GROUP BY Country
+ORDER BY COUNT(CustomerID) DESC;
+```
 #### ORDER BY (ASC | DESC)
+You can use **`ORDER BY`** to sort the column/s in ascending or descending order.
+**ORDER BY Syntax**
+```mysql
+SELECT column1, column2, ...
+FROM Products;
+ORDER BY column1, column2, ... ASC|DESC;
+```
+**ORDER BY Examples**
+```mysql
+SELECT COUNT(*)
+FROM Products;
+ORDER BY Price;
+```
+It will defaultly order ascending so you can leave ASC away. But if you want to get it descending you need to use DESC as in the following example.
+```mysql
+SELECT COUNT(*)
+FROM Products;
+ORDER BY Price DESC;
+```
+You can also sort it by multiple columns.
+```mysql
+SELECT COUNT(*)
+FROM Customers;
+ORDER BY Country, CustomerName;
+```
+But how does that work you think? It is because it first orders by the Country and if some rows have the same Country, it orders them by the CustomerName.
+This also works with ASC and DESC as you can see in the following example.
+```mysql
+SELECT COUNT(*)
+FROM Customers;
+ORDER BY Country ASC, CustomerName DESC;
+```
+Here it will first order ascending by the country and if some rows have the same country, it orders them descending by the CustomerName.
 
 ---
-### Constraints | Extra
+### Constraints
 #### PRIMARY KEY
 A Table can only have one **PRIMARY KEY**. A PRIMARY KEY is a constraint that uniquely identifies each record in a table. So it is a unique value that cannot contain NULL values, but it can consist of single or multiple columns.
 *A common use of a primary key is the userID.*
