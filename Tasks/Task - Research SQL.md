@@ -175,13 +175,13 @@ SELECT column1, column2, ...
 FROM table_name1
 LEFT JOIN table_name2 ON table_name1.column = table_name2.column;
 ```
-LEFT JOIN Examples
+**LEFT JOIN Examples**
 ```mysql
 SELECT Customers.CustomerName, Orders.OrderID
 FROM Customers
 LEFT JOIN table_name2 ON Customers.column = Orders.CustomerID;
 ```
-You can also use ORDER BY or GROUP BY
+You can also use **`ORDER BY`** or **`GROUP BY`** 
 ```mysql
 SELECT Customers.CustomerName, Orders.OrderID
 FROM Customers
