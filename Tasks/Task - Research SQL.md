@@ -193,7 +193,47 @@ You can also use **`ORDER BY`** or **`GROUP BY`**
 ```mysql
 SELECT Customers.CustomerName, Orders.OrderID
 FROM Customers
-LEFT JOIN table_name2 ON Customers.column = Orders.CustomerID
+LEFT JOIN Orders ON Customers.column = Orders.CustomerID
+ORDER BY Customers.CustomerName;
+```
+**RIGHT JOIN Syntax**
+The right table is the one after **`JOIN`**, which here would be called table_name2.
+```mysql
+SELECT column1, column2, ...
+FROM table_name1
+RIGHT JOIN table_name2 ON table_name1.column = table_name2.column;
+```
+**RIGHT JOIN Examples**
+```mysql
+SELECT Orders.OrderID, Employees.LastName, Employees.FirstName
+FROM Orders
+RIGHT JOIN Employees ON Orders.column = Employees.ID;
+```
+You can also use **`ORDER BY`** or **`GROUP BY`** 
+```mysql
+SELECT Orders.OrderID, Employees.LastName, Employees.FirstName
+FROM Orders
+RIGHT JOIN Employees ON Orders.column = Employees.ID;
+ORDER BY Orders.OrderID;
+```
+**FULL JOIN Syntax**
+**Note: The full join can create large result-sets.**
+```mysql
+SELECT column1, column2, ...
+FROM table_name1
+FULL OUTER JOIN table_name2 ON table_name1.column = table_name2.column;
+```
+**FULL JOIN Examples**
+```mysql
+SELECT Customers.CustomerName, Order.OrderID
+FROM Customers
+FULL OUTER JOIN Orders ON Customers.CustomerID = Orders.CustomerID;
+```
+You can also use **`ORDER BY`** or **`GROUP BY`** or others.
+```mysql
+SELECT Customers.CustomerName, Order.OrderID
+FROM Customers
+FULL OUTER JOIN Orders ON Customers.CustomerID = Orders.CustomerID;
 ORDER BY Customers.CustomerName;
 ```
 ## Extra
