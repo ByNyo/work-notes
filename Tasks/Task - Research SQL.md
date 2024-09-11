@@ -79,7 +79,7 @@ UPDATE Customers
 SET ContactName='Juan'
 WHERE County='Mexico'
 ```
-**!!!WARNING!!! Without the **`WHERE`** clause, ALL records will be updated!**
+**!!!WARNING!!! Without the `WHERE` clause, ALL records will be updated!**
 **UPDATE all records**
 ```mysql
 UPDATE Customers
