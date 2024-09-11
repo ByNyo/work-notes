@@ -479,11 +479,11 @@ DROP CONSTRAINT FK_PersonOrder;
 1. `make startdb` and `make stopdb`
 2. `psql -h localhost -p 5544 -U forecast` then enter the password
 3. `SELECT COUNT(*) FROM weather_records;`
-5. `SELECT city FROM weather_records GROUP BY city;`
-6. `SELECT city, icon FROM weather_records INNER JOIN cities ON weather_records.city = cities.name;`
-7. `SELECT * FROM weather_records WHERE condition='dry';`
-8. `SELECT * FROM weather_records WHERE condition='dry' AND icon='clear-day';`
-9. `SELECT * FROM weather_records WHERE icon!='clear-night' AND icon!='clear-day';`
-10. `SELECT city, COUNT(*) FROM weather_records WHERE icon='cloudy' GROUP BY city;`
-11. `SELECT city, MAX(wind_speed) FROM weather_records WHERE icon='cloudy' GROUP BY city;`
-12. `SELECT city, timestamp, temperature FROM weather_records ORDER BY temperature DESC;`
+4. `SELECT city FROM weather_records GROUP BY city;`
+5. `SELECT city, icon FROM weather_records INNER JOIN cities ON weather_records.city = cities.name;`
+6. `SELECT * FROM weather_records WHERE condition='dry';`
+7. `SELECT * FROM weather_records WHERE condition='dry' AND icon='clear-day';`
+8. `SELECT * FROM weather_records WHERE icon!='clear-night' AND icon!='clear-day';`
+9. `SELECT city, COUNT(DISTINCT DATE(timestamp)) AS num_of_cloudy_days FROM weather_records WHERE icon='cloudy' GROUP BY city;`
+10. `SELECT city, MAX(wind_speed) FROM weather_records WHERE icon='cloudy' GROUP BY city;`
+11. `SELECT city, timestamp, temperature FROM weather_records ORDER BY temperature DESC;`
