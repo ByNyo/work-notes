@@ -23,6 +23,7 @@ CREATE TABLE Customers(
 );
 ```
 With the last example you can run into problems. For example because the table already exists. But don't worry there is a way to make sure you don't run into these problems.
+
 **CREATE if not exists Syntax**
 ```mysql
 CREATE TABLE IF NOT EXISTS table_name(
