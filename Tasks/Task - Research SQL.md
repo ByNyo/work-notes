@@ -45,8 +45,7 @@ CREATE TABLE IF NOT EXISTS Customers(
 	PRIMARY KEY (ID)
 );
 ```
-If you already have an existing Table and want to clone it. Don't worry there is a way.
-**CREATE & Clone Syntax**
+If you already have an existing Table and want to clone it. Don't worry there is a way. **CREATE & Clone Syntax**
 ```mysql
 CREATE TABLE NEW_TABLE_NAME AS
 SELECT [column1]
