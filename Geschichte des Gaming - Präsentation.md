@@ -1,1 +1,0 @@
-Erstes (grafisches)Spiel: Pong
