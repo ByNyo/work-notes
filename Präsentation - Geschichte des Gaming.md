@@ -1,9 +1,20 @@
 # Ursprung der Videospiele
-Erstes (grafisches) Spiel: Tennis for Two
-
-#### Erste Spielkonsole
-- Erfinder: Ralph Baer
-- 
+#### Erstes (grafisches) Videospiel
+- Spiel: Tennis for Two
+#### (wahres) Erstes Videospiel
+- OXO
+#### Ralph (Henry) Baer
+- deutschamerikanischer Spielentwickler & Erfinder
+- Geburt 08.03.1922 
+- Tod: 06.12.2014 USA, Manchester, New Hampshire (Alter 92)
+- Ehrungen
+	- 2006 Orden "National Medal of Technology" von US-Präsident Bush
+	- 2008 IEEE Masaru Ibuka Consumer Electronics Award
+	- 2014 IEEE Edison Medal
+- Erfindung ***(nächste Folie)***
+#### Erste Spielekonsole
+- Prototyp
+- Endprodukt: Magnavox Odyssey ***(nächste Folie)***
 
 # Konsolen
 ## Arcade Machinen
