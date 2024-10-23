@@ -1,12 +1,12 @@
 # TODO
 - Konsolen ausbessern
-- Folien fertigstellen
-- Stichpunkte anfertigen
+- Folien (4,5,7) fertigstellen
+- Notizen anfertigen
 # Ursprung der Videospiele
+#### Erstes Videospiel
+- OXO
 #### Erstes (grafisches) Videospiel
 - Spiel: Tennis for Two
-#### (wahres) Erstes Videospiel
-- OXO
 #### Ralph (Henry) Baer
 - deutschamerikanischer Spielentwickler & Erfinder
 - Geburt 08.03.1922 
