@@ -72,38 +72,38 @@ Quelle: https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 - Release: 08.02.2024
 - Entwickler: Arrowhead Game Studios
 - Arten: Windows & PS5
-- Genres:
 - Warum ist es so gut & erfolgreicht?
 #### Astro Bot
 - Release: 06.09.2024
 - Entwickler: Team ASOBI, Japan Studio
 - Art: Konsolenspiel (Nur PS5)
-- Genres:
 - Warum ist es so gut & erfolgreicht?
 #### Black Myth Wukong
 - Release: 19.08.2024
 - Entwickler: Game Science
 - Arten: Windows, PS5, Xbox Series X/S & Cloud
-- Genres:
 - Warum ist es so gut & erfolgreicht?
 # Schlechtesten Videospiele 2024
 #### Skull And Bones
 - Release: 13.02.2024
 - Entwickler: Ubisoft
 - Arten: Windows, PS5, Xbox Series X/S & Cloud
-- Genres: Action Adventure, Abenteuer & Shooter
 - Warum ist es so schlecht?
 #### Concord
 - Release: 20.08.2024
 - Entwickler: Firewalk Studios
 - Arten: Windows & PS5
-- Genres: Shooter
 - Wieso ist es schlecht?
 	- 
 #### Star Wars Outlaws
 - Release: 27.08.2024
 - Entwickler: Massive Entertainment & Ubisoft (In Kooperation mit Lucasfilm Games)
 - Arten: Windows, PS5 & Cloud
-- Genres: 
 - Warum macht es schlecht?
 	- Es ist ein unfertiges Produkt & kostet für die ganzen Bugs viel zu viel
+
+
+# Präsentation's Notizen
+
+### Erstes Videospiel
+### Erstes grafisches Videospiel
