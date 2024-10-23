@@ -106,4 +106,63 @@ Quelle: https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 # Präsentation's Notizen
 
 ### Erstes Videospiel
+- 
 ### Erstes grafisches Videospiel
+- 
+### Ralph H. Baer
+- deutschamerikanischer Spieleentwickler & Erfinder
+- Geburt: 08.03.1922
+- Tod: 06.12.2014
+- Ehrungen
+	- 
+- Erfindung (Überleitung nächste Folie zu erster Spielkonsole)
+### Erste Spielkonsole
+- Prototyp von 1968 (auf Bild eingehen)
+- 
+- 
+- 
+- Überleitung zu Bild Magnavox Odyssey
+##### Bild Magnavox Odyssey
+- Etwas auf Controller eingehen
+
+### Arcade Maschinen
+- Computer Space (aller erste Arcade Maschine)
+### Handheld-Konsolen
+- Nintendo DS, 2DS, 3DS, Switch, ...
+- PlayStation Portable, Portal
+- Mattel Electronics Auto Race (erste Handheld-Konsole, siehe Bild)
+- Nächste Folie (Aussehen, wenn Mattel Electronics Auto Race an ist)
+### Hybrid-Konsolen
+- Erklärung
+	- Konsolen sind stationär oder handheld nutzbar (In der Hand halten oder in Docking Station packen)
+- Sega Nomad (erste Hybrid-Konsole & Switch-Vorgänger)
+- Nintendo Switch (2017)
+
+### Stationäre-Konsolen
+- Erklärung
+	- Konsolen die an einer Stelle sind und nicht mitnehmbar sind, außer im ausgeschalteten Zustand
+- Magnavox Odyssey
+- PlayStation
+	- PS1
+	- PS4
+	- PS5 (Bild)
+- Xbox
+	- Xbox Series X/S
+	- Xbox One
+	- Xbox 360
+- Nintendo
+	- Super Nintendo Entertainment System
+	- Nintendo 64
+	- GameCube
+	- Wii
+
+
+
+
+
+
+
+
+
+
+
