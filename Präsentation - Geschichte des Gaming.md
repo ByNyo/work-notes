@@ -89,26 +89,28 @@ https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 - Veröffentlichungsdatum: 13.10.2009
 - Developer: Naughty Dog & Bluepoint Games
 - Platformen: PS3
-- Awards (11 insgesamt)
-	- VGX Award for Game of the Year
-	- VGX Award for Best Graphics
-	- BAFTA Games Award for Story
+- Awards (11)
+	- VGX Award for Game of the Year (2009)
+	- VGX Award for Best Graphics (2009)
+	- BAFTA Games Award for Story (2010)
 - Grafik
 	- Die Umwelt wurde im Spiel in Echtzeit berechnet, deswegen sahen die Texturen & Animationen realistischer aus.
 ### Wii Sports
 - Veröffentlichungsdatum: 19.11.2006
 - Developer: Nintendo
 - Platformen: Nintendo Wii
-- Awards
-	- 
+- Awards (6)
+	- BAFTA Games Award for Casual (2007)
+	- BAFTA Games Award for Sport (2007)
 - Familienspiel
 	- Es ist ein Spiel bei dem man mit bzw. gegen seine Familie spielt und herausfindet, wer z.B. der Beste im Bowling ist.
 ### Minecraft
 - Veröffentlichungsdatum: 17.09.2009
 - Developer: Mojang Studios
 - Platformen: Sogut wie allen Plattformen
-- Awards
-	- 
+- Awards (4)
+	- VGX Award for Best Independent Game (2011)
+	- BAFTA Games Special Award (2012)
 - Fantasie
 	- Man kann seine Fantasie ausleben. Indem man überlebt, den Enderdrachen tötet, Konstruktionen baut, und vieles mehr.
 # 2010-2020
@@ -116,16 +118,18 @@ https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 - Veröffentlichungsdatum: 27.10.2017
 - Developer:  Nintendo
 - Platformen: Nintendo Switch
-- Awards
-	- 
+- Awards (4)
+	- British Academy Games Award for Family (2018)
 - Gameplay
 	- 
-### GTA 5
+### GTA V
 - Veröffentlichungsdatum: 17.09.2013
 - Developer: Rockstar Games
 - Platformen: PS3/4/5, Xbox One, Xbox 360, Xbox Series X/S & Windows
-- Awards
-	- 
+- Awards (7)
+	- VGX Award for Most Anticipated Game (2012)
+	- VGX Award for Game of the Year (2013)
+	- The Game Award for Best Remaster (2014)
 - Realismus
 	- 
 # 2020-2023
@@ -133,16 +137,19 @@ https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 - Veröffentlichungsdatum: 19.05.2020
 - Developer: PlayStation
 - Platformen: PS5 & PS4
-- Awards
-	- 
+- Awards (12)
+	- The Game Award for Best Performance (2020)
+	- The Game Award for Game of the Year (2020)
+	- BAFTA Games Award for Animaton (2021)
 - Geschichte / Story
 	- 
 ## Elden Ring
 - Veröffentlichungsdatum: 25.02.2022
 - Developer: FromSoftware Inc.
 - Platformen: PS4/5, Xbox One, Xbox Series X/S & Windows
-- Awards
-	- 
+- Awards (8)
+	- The Game Award for Game of the Year (2022)
+	- The Game Award for Best Art Direction (2022)
 - Gameplay
 	- 
 - Grafik
@@ -151,33 +158,41 @@ https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 #### Helldivers II
 - Release: 08.02.2024
 - Entwickler: Arrowhead Game Studios
-- Arten: Windows & PS5
+- Plattformen: Windows & PS5
 - Warum ist es so gut & erfolgreicht?
 #### Astro Bot
 - Release: 06.09.2024
 - Entwickler: Team ASOBI, Japan Studio
-- Art: Konsolenspiel (Nur PS5)
+- Plattform: Konsolenspiel (Nur PS5)
 - Warum ist es so gut & erfolgreicht?
 #### Black Myth Wukong
 - Release: 19.08.2024
 - Entwickler: Game Science
-- Arten: Windows, PS5, Xbox Series X/S & Cloud
+- Plattformen: Windows, PS5, Xbox Series X/S & Cloud
 - Warum ist es so gut & erfolgreicht?
 # Schlechtesten Videospiele 2024
 #### Skull And Bones
 - Release: 13.02.2024
 - Entwickler: Ubisoft
-- Arten: Windows, PS5, Xbox Series X/S & Cloud
+- Plattformen: Windows, PS5, Xbox Series X/S & Cloud
 - Warum ist es so schlecht?
 #### Concord
 - Release: 20.08.2024
 - Entwickler: Firewalk Studios
-- Arten: Windows & PS5
+- Plattformen: Windows & PS5
 - Wieso ist es schlecht?
 	- 
 #### Star Wars Outlaws
 - Release: 27.08.2024
 - Entwickler: Massive Entertainment & Ubisoft (In Kooperation mit Lucasfilm Games)
-- Arten: Windows, PS5 & Cloud
+- Plattformen: Windows, PS5 & Cloud
 - Warum macht es schlecht?
 	- Es ist ein unfertiges Produkt & kostet für die ganzen Bugs viel zu viel
+
+# Extra Notizen
+### BAFTA Games Award & British Academy Games Award
+- Preisverleihungsveranstaltung von British Academy of Film and Television Arts (kurz BAFTA)
+### The Game Awards
+- Preisverleihungsveranstaltung von Geoff Keighley. Er produziert und moderiert die Shows.
+### VGX Awards
+- Auch Spike Video Game Awards genannt. War damals eine jährliche Preisverleihungsveranstaltung von Geoff Keighley. Mittlerweile existiert es nicht mehr und Geoff Keighley produziert und moderiert The Game Awards, ebenfalls eine Perisverleihungsveranstaltung von ihm.
