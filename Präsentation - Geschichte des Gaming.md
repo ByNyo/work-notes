@@ -84,7 +84,6 @@ https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 	- Nintendo 64
 	- GameCube
 	- Wii
-#aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 # 2000 - 2010
 ### Uncharted 2
 - Veröffentlichungsdatum: 13.10.2009
