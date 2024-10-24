@@ -142,7 +142,7 @@ https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 	- The Game Award for Game of the Year (2020)
 	- BAFTA Games Award for Animaton (2021)
 - Geschichte / Story
-	- 
+	- Die Charaktere haben eine fesselnde Art und Weise, wie Gewalt dargestellt wird. Außerdem ist die Geschichte unvergesslich.
 ## Elden Ring
 - Veröffentlichungsdatum: 25.02.2022
 - Developer: FromSoftware Inc.
