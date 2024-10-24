@@ -114,7 +114,9 @@ Quelle: https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 - Geburt: 08.03.1922
 - Tod: 06.12.2014
 - Ehrungen
-	- 
+	- 2006 US-Präsident Bush Ehrung Orden "National Medal of Technology"
+	- 2008 IEEE Masaru Ibuka Consumer Electronics Award
+	- 2014 IEEE Edison Medal
 - Erfindung (Überleitung nächste Folie zu erster Spielkonsole)
 ### Erste Spielkonsole
 - Prototyp von 1968 (auf Bild eingehen)
@@ -126,8 +128,16 @@ Quelle: https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 - Etwas auf Controller eingehen
 
 ### Arcade Maschinen
+- Erklärung
+	- Videospiel-Automaten in Arcades
+	- Heute noch in Spielotheken zu finden
 - Computer Space (aller erste Arcade Maschine)
+- Pac-Man (1980)
+- Donkey Kong (1981)
+- Tetris (1988)
 ### Handheld-Konsolen
+- Erklärung
+	- Konsolen, die man überall nutzen kann. 
 - Nintendo DS, 2DS, 3DS, Switch, ...
 - PlayStation Portable, Portal
 - Mattel Electronics Auto Race (erste Handheld-Konsole, siehe Bild)
@@ -137,7 +147,6 @@ Quelle: https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 	- Konsolen sind stationär oder handheld nutzbar (In der Hand halten oder in Docking Station packen)
 - Sega Nomad (erste Hybrid-Konsole & Switch-Vorgänger)
 - Nintendo Switch (2017)
-
 ### Stationäre-Konsolen
 - Erklärung
 	- Konsolen die an einer Stelle sind und nicht mitnehmbar sind, außer im ausgeschalteten Zustand
@@ -155,14 +164,107 @@ Quelle: https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 	- Nintendo 64
 	- GameCube
 	- Wii
-
-
-
-
-
-
-
-
-
-
-
+### Uncharted 2
+- Veröffentlichungsdatum: 
+- Developer: 
+- Platformen: 
+- Awards
+	- 
+- Was ist gut daran?
+	- 
+### Wii Sports
+- Veröffentlichungsdatum: 
+- Developer: 
+- Platformen: 
+- Awards
+	- 
+- Was ist gut daran?
+	- 
+### Minecraft
+- Veröffentlichungsdatum: 
+- Developer: 
+- Platformen: 
+- Awards
+	- 
+- Was ist gut daran?
+	- 
+### Super Mario Odyssey
+- Veröffentlichungsdatum: 
+- Developer: 
+- Platformen: 
+- Awards
+	- 
+- Was ist gut daran?
+	- 
+### GTA 5
+- Veröffentlichungsdatum: 
+- Developer: 
+- Platformen: 
+- Awards
+	- 
+- Was ist gut daran?
+	- 
+### The Last of Us Part II
+- Veröffentlichungsdatum: 
+- Developer: 
+- Platformen: 
+- Awards
+	- 
+- Was ist gut daran?
+	- 
+### Elden Ring
+- Veröffentlichungsdatum: 
+- Developer: 
+- Platformen: 
+- Awards
+	- 
+- Was ist gut daran?
+	- 
+### Helldivers II
+- Veröffentlichungsdatum: 
+- Developer: 
+- Platformen: 
+- Awards
+	- 
+- Was ist gut daran?
+	- 
+### Astro Bot
+- Veröffentlichungsdatum: 
+- Developer: 
+- Platformen: 
+- Awards
+	- 
+- Was ist gut daran?
+	- 
+### Black Myth Wukong
+- Veröffentlichungsdatum: 
+- Developer: 
+- Platformen: 
+- Awards
+	- 
+- Was ist gut daran?
+	- 
+### Skull and Bones
+- Veröffentlichungsdatum: 
+- Developer: 
+- Platformen: 
+- Awards
+	- 
+- Was macht es schlecht?
+	- 
+### Concord
+- Veröffentlichungsdatum: 
+- Developer: 
+- Platformen: 
+- Awards
+	- 
+- Was macht es schlecht?
+	- 
+### Star Wars Outlaws
+- Veröffentlichungsdatum: 
+- Developer: 
+- Platformen: 
+- Awards
+	- 
+- Was macht es schlecht?
+	- 
