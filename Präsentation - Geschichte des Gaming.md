@@ -166,22 +166,26 @@ https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 - Entwickler: Team ASOBI, Japan Studio
 - Plattform: Konsolenspiel (Nur PS5)
 - Warum ist es eines der besten?
+	- Wegen der einfachen und spaßigen Spielmechanik. Es gibt keine übermäßig lange Tutorials oder komplexe Geschichten sondern das Spiel stellt den Spielspaß in den Vordergrund.
 #### Black Myth Wukong
 - Release: 19.08.2024
 - Entwickler: Game Science
 - Plattformen: Windows, PS5, Xbox Series X/S & Cloud
 - Warum ist es eines der besten?
+	- Es hat eine unglaubliche schöne 4K-Grafik und das Gameplay ist sehr interessant und spannend.
 # Schlechtesten Videospiele 2024
 #### Skull And Bones
 - Release: 13.02.2024
 - Entwickler: Ubisoft
 - Plattformen: Windows, PS5, Xbox Series X/S & Cloud
 - Warum ist es so schlecht?
+	- Weil es keine Story oder sonstiges hat, es basiert pur auf den Online-Spielern die dann miteinander Interagieren können. Das Spiel ist gefloppt, weil sich nicht genügend Spieler für das Spiel interessiert haben.
 #### Concord
 - Release: 20.08.2024
 - Entwickler: Firewalk Studios
 - Plattformen: Windows & PS5
 - Wieso ist es schlecht?
+	- Es gibt viele Meinungen warum Concord gefloppt ist. Einige meinen dass es wegen hässlichen Charakteren gefloppt ist. Andere sagen, dass es ist an sich nicht schlecht, aber der Launch schlecht lieft. Weil es keine eigene Ideen hatte und wirkte als wäre es in der Zeit von Overwatch 1 gefangen.
 #### Star Wars Outlaws
 - Release: 27.08.2024
 - Entwickler: Massive Entertainment & Ubisoft (In Kooperation mit Lucasfilm Games)
