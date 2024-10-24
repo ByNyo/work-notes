@@ -168,7 +168,7 @@ https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 #### Black Myth Wukong
 - Release: 19.08.2024
 - Entwickler: Game Science
-- Arten: Windows, PS5, Xbox Series X/S & Cloud
+- Plattformen: Windows, PS5, Xbox Series X/S & Cloud
 - Warum ist es so gut & erfolgreicht?
 # Schlechtesten Videospiele 2024
 #### Skull And Bones
