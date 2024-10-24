@@ -3,11 +3,30 @@
 - Notizen anfertigen
 # Ursprung der Videospiele
 ## Erstes Videospiel
-- 1952
+- Tic Tac Toe (kurz OXO, Release: 1952)
+- Erklärung
+	- Bei Tic Tac Toe muss man 3 Kreuze oder 3 Kreise (kommt auf die Form an, die man hat) in einer Reihe haben geht auch diagonal.
+- 1 Spielmodus: Gegen Computer (1 Spielmodus insgesamt)
+	- Spieler wählt aus wer beginnt
+	- Spieler wählt Position durch Telefonwahlgerät
+- Entwickler: A S Douglas
+	- Geburt: 21.05.1921
+	- Tod: 29.04.2010
+	- Voller Name: Alexander Shafto Douglas
+	- Spitzname: "Sandy" (gängige Form für Namen Alexander, besonders in Schottland)
+- Idee (hinterm Spiel von A S Douglas)
+	- OXO auf Pixel-Bildschirm anzeigen zu lassen.
 ## Erstes (grafisches) Videospiel
 - Spiel: Tennis for Two
+- Erklärung
+	- Es wird als erstes grafisches Spiel gesehen, da es eines der ersten Spiele mit einem grafischen Display war. Außerdem weil es das erste war, dass zur Unterhaltung entwickelt wurde. Alle vorherigen wurden für wissenschaftliche Forschungen oder Technologieförderung entwickelt.
+- Entwickler: William Alfred Higinbotham
+	- Geburt: 22.10.1910
+	- Tod: 10.11.1994
+	- Arbeitete an ersten Atombomben
+- 
 ## Ralph H. Baer
-- deutschamerikanischer Spieleentwickler & Erfinder
+- deutsch-amerikanischer Spieleentwickler & Erfinder
 - Geburt: 08.03.1922
 - Tod: 06.12.2014
 - Ehrungen
@@ -16,7 +35,9 @@
 	- 2014 IEEE Edison Medal
 - Erfindung (Überleitung nächste Folie)
 ## Erste Spielekonsole
-- Prototyp
+- Prototyp 1968 (Name: Brown Box)
+- 
+- 
 - Endprodukt: Magnavox Odyssey (siehe nächste Folie)
 # Konsolen
 **Quellen**
