@@ -121,7 +121,7 @@ https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 - Awards (4)
 	- British Academy Games Award for Family (2018)
 - Gameplay
-	- 
+	- Es bietet abwechslungsreiches spaßiges Gameplay, unter anderem durch die Spielmechanik Objekte oder Gegner zu übernehmen. 
 ### GTA V
 - Veröffentlichungsdatum: 17.09.2013
 - Developer: Rockstar Games
@@ -131,7 +131,7 @@ https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 	- VGX Award for Game of the Year (2013)
 	- The Game Award for Best Remaster (2014)
 - Realismus
-	- Unternehmungen, also Dinge die Spieler in der Welt machen können sind realistisch, z.B. Auto fahren, Motorrad fahren, Banken ausrauben und mehr. Außerdem hat es eine realistische Umgebung und realistische Animationen
+	- Unternehmungen, also Dinge die Spieler in der Welt machen können sind realistisch, z.B. Auto fahren, Motorrad fahren, Banken ausrauben und mehr. Außerdem hat es eine realistische Umgebung und realistische Animationen.
 # 2020-2023
 ### The Last of Us Part II
 - Veröffentlichungsdatum: 19.05.2020
