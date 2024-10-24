@@ -160,7 +160,7 @@ https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 - Entwickler: Arrowhead Game Studios
 - Plattformen: Windows & PS5
 - Warum ist es eines der besten?
-	- Interaktionen unter spielern.
+	- Weil es eine einzigartige Spielweise hat, bei der alle Spieler weltweit zusammen Aufgaben erledigen.
 #### Astro Bot
 - Release: 06.09.2024
 - Entwickler: Team ASOBI, Japan Studio
