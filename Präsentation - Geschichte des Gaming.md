@@ -17,14 +17,13 @@
 - Idee (hinterm Spiel von A S Douglas)
 	- OXO auf Pixel-Bildschirm anzeigen zu lassen.
 ## Erstes (grafisches) Videospiel
-- Spiel: Tennis for Two
+- Spiel: Tennis for Two (18.10.1958)
 - Erklärung
 	- Es wird als erstes grafisches Spiel gesehen, da es eines der ersten Spiele mit einem grafischen Display war. Außerdem weil es das erste war, dass zur Unterhaltung entwickelt wurde. Alle vorherigen wurden für wissenschaftliche Forschungen oder Technologieförderung entwickelt.
 - Entwickler: William Alfred Higinbotham
 	- Geburt: 22.10.1910
 	- Tod: 10.11.1994
 	- Arbeitete an ersten Atombomben
-- 
 ## Ralph H. Baer
 - deutsch-amerikanischer Spieleentwickler & Erfinder
 - Geburt: 08.03.1922
@@ -36,8 +35,9 @@
 - Erfindung (Überleitung nächste Folie)
 ## Erste Spielekonsole
 - Prototyp 1968 (Name: Brown Box)
-- 
-- 
+	- Erstes Mehrspieler & Mehrfachprogramm Videospiel System
+	- Hatte Funktionen, die Konsolen immernoch haben (2 Kontroller & Mehrfachprogramm Videospiel System)
+	- Konnte durch die Schalter vorne "programmiert" werden mehrere Spiele zu spielen
 - Endprodukt: Magnavox Odyssey (siehe nächste Folie)
 # Konsolen
 **Quellen**
