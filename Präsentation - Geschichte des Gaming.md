@@ -151,25 +151,25 @@ https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 	- The Game Award for Game of the Year (2022)
 	- The Game Award for Best Art Direction (2022)
 - Gameplay
-	- 
+	- Selbstwirksamkeit
 - Grafik
-	- 
+	- Elden Ring hat realistische Umgebung
 # Besten Videospiele 2024
 #### Helldivers II
 - Release: 08.02.2024
 - Entwickler: Arrowhead Game Studios
 - Plattformen: Windows & PS5
-- Warum ist es so gut & erfolgreicht?
+- Warum ist es eines der besten?
 #### Astro Bot
 - Release: 06.09.2024
 - Entwickler: Team ASOBI, Japan Studio
 - Plattform: Konsolenspiel (Nur PS5)
-- Warum ist es so gut & erfolgreicht?
+- Warum ist es eines der besten?
 #### Black Myth Wukong
 - Release: 19.08.2024
 - Entwickler: Game Science
 - Plattformen: Windows, PS5, Xbox Series X/S & Cloud
-- Warum ist es so gut & erfolgreicht?
+- Warum ist es eines der besten?
 # Schlechtesten Videospiele 2024
 #### Skull And Bones
 - Release: 13.02.2024
