@@ -89,10 +89,12 @@ https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 - Veröffentlichungsdatum: 13.10.2009
 - Developer: Naughty Dog & Bluepoint Games
 - Platformen: PS3
-- Awards
-	- 
-- Gameplay
-	- 
+- Awards (11 insgesamt)
+	- VGX Award for Game of the Year
+	- VGX Award for Best Graphics
+	- BAFTA Games Award for Story
+- Grafik
+	- Die Umwelt wurde im Spiel in Echtzeit berechnet, deswegen sahen die Texturen & Animationen realistischer aus.
 ### Wii Sports
 - Veröffentlichungsdatum: 19.11.2006
 - Developer: Nintendo
