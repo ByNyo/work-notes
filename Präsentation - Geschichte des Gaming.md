@@ -151,9 +151,9 @@ https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 	- The Game Award for Game of the Year (2022)
 	- The Game Award for Best Art Direction (2022)
 - Gameplay
-	- Selbstwirksamkeit
+	- Das Gameplay führt einen Spieler dazu sich selbst herauszufordern. Indem der Spieler sich selbst sagt, dass er den Boss besiegen kann, obwohl er schon mehrmals gestorben ist. 
 - Grafik
-	- Elden Ring hat realistische Umgebung
+	- Elden Ring hat 4K-Grafik und unterstützt Raytracing.
 # Besten Videospiele 2024
 #### Helldivers II
 - Release: 08.02.2024
