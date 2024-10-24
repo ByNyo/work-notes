@@ -1,13 +1,12 @@
 # TODO
-- Konsolen ausbessern
 - Folien (4,5,7) fertigstellen
 - Notizen anfertigen
 # Ursprung der Videospiele
-#### Erstes Videospiel
+## Erstes Videospiel
 - 1952
-#### Erstes (grafisches) Videospiel
+## Erstes (grafisches) Videospiel
 - Spiel: Tennis for Two
-### Ralph H. Baer
+## Ralph H. Baer
 - deutschamerikanischer Spieleentwickler & Erfinder
 - Geburt: 08.03.1922
 - Tod: 06.12.2014
@@ -16,7 +15,7 @@
 	- 2008 IEEE Masaru Ibuka Consumer Electronics Award
 	- 2014 IEEE Edison Medal
 - Erfindung (Überleitung nächste Folie)
-#### Erste Spielekonsole
+## Erste Spielekonsole
 - Prototyp
 - Endprodukt: Magnavox Odyssey (siehe nächste Folie)
 # Konsolen
