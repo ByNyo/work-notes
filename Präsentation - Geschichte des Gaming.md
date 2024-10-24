@@ -131,7 +131,7 @@ https://de.wikipedia.org/wiki/Nintendo#Station%C3%A4re_Konsolen
 	- VGX Award for Game of the Year (2013)
 	- The Game Award for Best Remaster (2014)
 - Realismus
-	- 
+	- Wegen realistischen Umgebungen und Animationen. Außerdem auch Dinge, die Spieler in der Welt unternehmen können sind realistisch, z.B. Autofahren, Motorrad fahren und mehr.
 # 2020-2023
 ### The Last of Us Part II
 - Veröffentlichungsdatum: 19.05.2020
